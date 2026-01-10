@@ -11,11 +11,12 @@ Os dados foram cuidadosamente preparados por meio de técnicas de limpeza e trat
 🎯 Objetivo
 
 Aplicar funções da linguagem Python e suas bibliotecas para:
-Realizar o tratamento e a preparação dos dados
-Identificar padrões e comportamentos relevantes
-Extrair insights estratégicos
-Responder a perguntas de negócio relacionadas ao desempenho de vendas
-O projeto teve como foco o desenvolvimento e o aprimoramento de habilidades em análise de dados, pensamento analítico, resolução de problemas e tomada de decisão baseada em dados.
+realizar o tratamento e a preparação dos dados
+identificar padrões e comportamentos relevantes
+extrair insights estratégicos
+responder a perguntas de negócio relacionadas ao desempenho de vendas.
+
+O projeto teve como foco o desenvolvimento e o aprimoramento das minhas habilidades em análise de dados, pensamento analítico, resolução de problemas e tomada de decisão baseada em dados.
 
 🛠️ Ferramentas Utilizadas
 
